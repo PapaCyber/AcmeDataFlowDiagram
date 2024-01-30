@@ -1,5 +1,5 @@
 # AcmeDataFlowDiagram
-This is a redacted version of a data flow diagram that I've created for a client. 
+This is a redacted version of a basic data flow diagram that I've created for a client. 
 
 This was my first time using Draw.io and it was a pleasure to use.
 
